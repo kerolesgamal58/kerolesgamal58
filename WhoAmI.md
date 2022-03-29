@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Keroles Gamal
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning ...
+<!---- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
+--->
 - 📫 How to reach me 
 - Email: gamalkeroles58@gmail.com
 - LinkedIn: www.linkedin.com/in/keroles-gamal/
